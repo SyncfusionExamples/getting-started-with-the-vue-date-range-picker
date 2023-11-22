@@ -2,12 +2,6 @@
 
 The [Vue Date Range Picker](https://www.syncfusion.com/vue-components/vue-date-range-picker?utm_source=github&utm_medium=listing&utm_campaign=vue-date-range-picker-github-samples) is a lightweight and mobile-friendly component that allows end users to select start and end date values as a range from a calendar pop-up or by entering values directly in the HTML input text box.A quick-start project that shows how to work with the Syncfusion Date Range Picker in a Vue application. This project contains simple code customization, as well as some important features like setting specific date range values, range restriction, day spans, formats, and a month-range picker.
 
-Refer to the following documentation for the Syncfusion Vue Date Range Picker component: 
-https://ej2.syncfusion.com/vue/documentation/daterangepicker/getting-started
-
-Check out this online example of the Syncfusion Vue Date Range Picker component: 
-https://ej2.syncfusion.com/vue/demos/#/bootstrap5/daterangepicker/default.html
-
 ## Project prerequisites
 
 Make sure that you have the latest versions of Vue, Node, Vue class component, and Visual Studio Code in your machine before starting to work on this project.
