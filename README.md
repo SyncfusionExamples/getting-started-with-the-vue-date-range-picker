@@ -1,6 +1,6 @@
 # Getting Started with the Vue Date Range Picker
 
-The [Vue Date Range Picker](https://www.syncfusion.com/vue-components/vue-date-range-picker?utm_source=github&utm_medium=listing&utm_campaign=vue-date-range-picker-github-samples) is a lightweight and mobile-friendly component that allows end users to select start and end date values as a range from a calendar pop-up or by entering values directly in the HTML input text box.A quick-start project that shows how to work with the Syncfusion Date Range Picker in a Vue application. This project contains simple code customization, as well as some important features like setting specific date range values, range restriction, day spans, formats, and a month-range picker.
+The [Vue Date Range Picker](https://www.syncfusion.com/vue-components/vue-date-range-picker?utm_source=github&utm_medium=listing&utm_campaign=vue-date-range-picker-github-samples) is a lightweight and mobile-friendly component that allows end users to select start and end date values as a range from a calendar pop-up or by entering values directly in the HTML input text box. A quick-start project that shows how to work with the Syncfusion Date Range Picker in a Vue application. This project contains simple code customization, as well as some important features like setting specific date range values, range restriction, day spans, formats, and a month-range picker.
 
 ## Project prerequisites
 
@@ -22,7 +22,7 @@ Restricts dates outside the min and max date ranges, allowing only valid dates t
 
 ### Attractive customizable themes
 
-Cutting edge design with 5+ built-in themes such as Fluent, Tailwind CSS, Bootstrap, Material, Fabric, and more. Utilize the online Theme Studio tool to customize themes of Date Range Picker easily.
+Cutting edge design with 5+ built-in themes such as Fluent, Tailwind CSS, Bootstrap, Material, Fabric, and more. Utilize the online Theme Studio tool to customize themes of [Date Range Picker](https://www.syncfusion.com/vue-components/vue-date-range-picker?utm_source=github&utm_medium=listing&utm_campaign=vue-date-range-picker-github-samples) easily.
 
 ## Related links
 [Learn More about Vue Date Range Picker](https://www.syncfusion.com/vue-components/vue-date-range-picker?utm_source=github&utm_medium=listing&utm_campaign=vue-date-range-picker-github-samples)
@@ -41,11 +41,9 @@ Cutting edge design with 5+ built-in themes such as Fluent, Tailwind CSS, Bootst
 
 [Online example](https://ej2.syncfusion.com/vue/demos/#/bootstrap5/daterangepicker/default.html?utm_source=github&utm_medium=listing&utm_campaign=vue-date-range-picker-github-samples)
 
-
 ## About Syncfusion Vue Components
 
 Syncfusion's [Vue Components](https://www.syncfusion.com/vue-components?utm_source=github&utm_medium=listing&utm_campaign=vue-date-range-picker-github-samples) library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Date Range Picker, we provide popular Vue Components such as [Charts](https://www.syncfusion.com/vue-components/vue-charts?utm_source=github&utm_medium=listing&utm_campaign=vue-speed-dial-github-samples), [Grid](https://www.syncfusion.com/vue-components/vue-grid?utm_source=github&utm_medium=listing&utm_campaign=vue-speed-dial-github-samples), [Scheduler](https://www.syncfusion.com/vue-components/vue-scheduler?utm_source=github&utm_medium=listing&utm_campaign=vue-date-range-picker-github-samples), [Diagram](https://www.syncfusion.com/vue-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=vue-date-range-picker-github-samples), and [Word Processor](https://www.syncfusion.com/vue-components/vue-word-processor?utm_source=github&utm_medium=listing&utm_campaign=vue-date-range-picker-github-samples).
-
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 29,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
